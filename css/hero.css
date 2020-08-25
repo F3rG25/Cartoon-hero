@@ -16,6 +16,9 @@ h1, h2{
 	font-family: 'DM Sans', sans-serif;
 }
 
+/* Header Styles*/
+
+
 header h1{
 	color: white;
 	font-size: 60px
@@ -75,6 +78,10 @@ p.caption{
 	color: #999999;
 	font-style: italic;
 	margin-top: 0; 
+}
+
+p{
+	font-family: 'Archivo', sans-serif;
 }
 
 
